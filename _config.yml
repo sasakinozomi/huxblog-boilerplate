@@ -1,6 +1,6 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Sasaki Nozomi's Blog
+SEOTitle: 佐佐木希的博客 | Your Blog
 header-img: img/home-bg.jpg
 #email: huxpro@gmail.com
 description: ""
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: sasakinozomi
 
 # Netease settings
 netease_comment: false
@@ -86,7 +86,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Hux Blog",
-        href: "http://huangxuan.me"
+        href: "#"
     },{
         title: "Foo",
         href: "#"
